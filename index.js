@@ -3,7 +3,7 @@
 // @namespace    使用说明网址见作者
 // @version      1.0
 // @description  安徽继续教育平台 自动刷课，PPT，跳过做题
-// @author       xxmz
+// @author       ragdollcb
 // @match        *://*.ahjxjy.cn/*
 // @grant        none
 // ==/UserScript==
